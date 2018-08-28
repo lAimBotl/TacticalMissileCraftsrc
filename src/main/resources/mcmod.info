@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TacticalMissileCraft",
+  "name": "Tactical MissileCraft",
+  "description": "A mod about realistic missiles and stuff",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lAimBotl"],
+  "credits": "My will to live and my drive to do stuff when I am bored",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

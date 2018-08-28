@@ -1,0 +1,7 @@
+#Items
+item.tacticalmissilecraft:EnhancedGunpowder.name=Enhanced Gunpowder
+
+#Blocks
+tile.tacticalmissilecraft:blockArmoredStone.name=Armored Stone
+tile.tacticalmissilecraft:blockAdvancedTnt.name=Advanced Tnt
+tile.tacticalmissilecraft:blockAlabaster.name=Alabaster
