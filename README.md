@@ -14,4 +14,6 @@ I plan on adding 3 types of missiles (may take a while though since I am still l
 All missiles will require fuel, solid or liquid, (small rockets have fuel built in) (obviously larger, more long range missiles will require more fuel)
 
 
+WIP:It is no where near done.
+
 
