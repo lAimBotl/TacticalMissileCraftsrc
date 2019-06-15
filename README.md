@@ -16,4 +16,6 @@ All missiles will require fuel, solid or liquid, (small rockets have fuel built 
 
 WIP:It is no where near done.
 
+(also I still suck at coding, and wow missiles are harder than I thought they would be lmao.)
+
 
